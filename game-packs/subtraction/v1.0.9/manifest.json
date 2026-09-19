@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "gameId": "subtraction",
+  "version": "1.0.9",
+  "engine": "web-game-v1",
+  "title": "Subtraction",
+  "totalBytes": 14556975,
+  "files": [
+    {
+      "path": "assets/arrow_down-SYMJRS3W.webp",
+      "bytes": 138,
+      "md5": "9405959f6a0f8493da0f836312d5c80a",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/9405959f6a0f8493da0f836312d5c80a.webp"
+    },
+    {
+      "path": "assets/back-icon-mask-BF4MANEU.webp",
+      "bytes": 552,
+      "md5": "cbe32eca9dae44deb214fdff349dd92d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/cbe32eca9dae44deb214fdff349dd92d.webp"
+    },
+    {
+      "path": "assets/back-icon-TRKDMJBN.webp",
+      "bytes": 152,
+      "md5": "e2600570857922d948b3de58cddd3bde",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e2600570857922d948b3de58cddd3bde.webp"
+    },
+    {
+      "path": "assets/badge-transparent-H2M2JRDI.webp",
+      "bytes": 40536,
+      "md5": "02ee779135925f5500b066a330d84f64",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/02ee779135925f5500b066a330d84f64.webp"
+    },
+    {
+      "path": "assets/boy1-SLOEFJNV.webp",
+      "bytes": 4420,
+      "md5": "3e4bde676c2c84fa7862b1b9e6a966a4",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3e4bde676c2c84fa7862b1b9e6a966a4.webp"
+    },
+    {
+      "path": "assets/boy2-LUR3UO2B.webp",
+      "bytes": 6096,
+      "md5": "124df672fa1baccd7dc822e057fd6a4d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/124df672fa1baccd7dc822e057fd6a4d.webp"
+    },
+    {
+      "path": "assets/boy3-PZNNL7Z7.webp",
+      "bytes": 4074,
+      "md5": "a794ed3385838515f5cdb9a21d268a48",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/a794ed3385838515f5cdb9a21d268a48.webp"
+    },
+    {
+      "path": "assets/boy4-7NOL7RAA.webp",
+      "bytes": 4226,
+      "md5": "a7cbe62168b00fad14f4ece567cffbae",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/a7cbe62168b00fad14f4ece567cffbae.webp"
+    },
+    {
+      "path": "assets/boy5-4O47UDOT.webp",
+      "bytes": 5554,
+      "md5": "28eb54b512bfb2aa0e8df605a12d907f",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/28eb54b512bfb2aa0e8df605a12d907f.webp"
+    },
+    {
+      "path": "assets/boy6-TLXZ3DC6.webp",
+      "bytes": 5420,
+      "md5": "80001733d1a6649a78c92b10f951d253",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/80001733d1a6649a78c92b10f951d253.webp"
+    },
+    {
+      "path": "assets/clear-icon-STR7Y4UN.webp",
+      "bytes": 530,
+      "md5": "d4e20d49ce2d60d8924440c3d048f4d0",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d4e20d49ce2d60d8924440c3d048f4d0.webp"
+    },
+    {
+      "path": "assets/close-icon-YRORH3FD.webp",
+      "bytes": 238,
+      "md5": "2e881882d973616cd97611226d3348f3",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2e881882d973616cd97611226d3348f3.webp"
+    },
+    {
+      "path": "assets/correct-DGTSYNLL.wav",
+      "bytes": 34442,
+      "md5": "3eb1ea8fce8d68e650d00029755afcbf",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3eb1ea8fce8d68e650d00029755afcbf.wav"
+    },
+    {
+      "path": "assets/easy-10-LYG33LPC.webp",
+      "bytes": 77968,
+      "md5": "19ddb5c8c00d6322cc4cf1e699149491",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/19ddb5c8c00d6322cc4cf1e699149491.webp"
+    },
+    {
+      "path": "assets/easy-20-G3LA2TDA.webp",
+      "bytes": 51414,
+      "md5": "0e904aa862376ac81392999a198063c2",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/0e904aa862376ac81392999a198063c2.webp"
+    },
+    {
+      "path": "assets/easy-30-FW2TD7DD.webp",
+      "bytes": 82708,
+      "md5": "d577c99b7b9bbb25e07c54520bad6b81",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d577c99b7b9bbb25e07c54520bad6b81.webp"
+    },
+    {
+      "path": "assets/error-HTMUUXQM.webp",
+      "bytes": 378,
+      "md5": "c5e28de31fb108c547923473364d438a",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c5e28de31fb108c547923473364d438a.webp"
+    },
+    {
+      "path": "assets/Faruma-NZAFNB5Z.ttf",
+      "bytes": 47504,
+      "md5": "1003209906e3d9363f3ec44a8070d95d",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/1003209906e3d9363f3ec44a8070d95d.ttf"
+    },
+    {
+      "path": "assets/file-N3G4PRH4.webp",
+      "bytes": 92,
+      "md5": "96d1901f77af4f512cead17ebad3e413",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/96d1901f77af4f512cead17ebad3e413.webp"
+    },
+    {
+      "path": "assets/forward-5RS2TFE6.webp",
+      "bytes": 142,
+      "md5": "25a6f00cbb0ac98b5aac3eee1992945c",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/25a6f00cbb0ac98b5aac3eee1992945c.webp"
+    },
+    {
+      "path": "assets/girl1-H3HEY4QY.webp",
+      "bytes": 5152,
+      "md5": "2eab466881f70b8d16d8746e14505039",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2eab466881f70b8d16d8746e14505039.webp"
+    },
+    {
+      "path": "assets/girl2-7HABBTNQ.webp",
+      "bytes": 4576,
+      "md5": "b64f4e8164e8af584d73e34aa117563b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/b64f4e8164e8af584d73e34aa117563b.webp"
+    },
+    {
+      "path": "assets/girl3-5DHPUZGR.webp",
+      "bytes": 4968,
+      "md5": "19c3786e7f05d9ee43025a45820a0925",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/19c3786e7f05d9ee43025a45820a0925.webp"
+    },
+    {
+      "path": "assets/girl4-DA3VFDIO.webp",
+      "bytes": 5732,
+      "md5": "d927b46fc94e8e8dec14302c92664056",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d927b46fc94e8e8dec14302c92664056.webp"
+    },
+    {
+      "path": "assets/grass-VNW2S6KE.webp",
+      "bytes": 47082,
+      "md5": "44d8c6543a35579fd4702997b93ffb69",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/44d8c6543a35579fd4702997b93ffb69.webp"
+    },
+    {
+      "path": "assets/hard-20-DKLFRU23.webp",
+      "bytes": 76960,
+      "md5": "c0f07160b5bb4ae698f6c27784c35ce7",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c0f07160b5bb4ae698f6c27784c35ce7.webp"
+    },
+    {
+      "path": "assets/hard-30-DKGMRVFV.webp",
+      "bytes": 80342,
+      "md5": "2ec81ef5879313307c862ca36b2ecc08",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2ec81ef5879313307c862ca36b2ecc08.webp"
+    },
+    {
+      "path": "assets/hard-40-YW6NH2SB.webp",
+      "bytes": 82970,
+      "md5": "dbcb2f8324e146cb0648f7e9dcb1a61d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/dbcb2f8324e146cb0648f7e9dcb1a61d.webp"
+    },
+    {
+      "path": "assets/Ionicons-L26UPCYG.ttf",
+      "bytes": 442604,
+      "md5": "6148e7019854f3bde85b633cb88f3c25",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6148e7019854f3bde85b633cb88f3c25.ttf"
+    },
+    {
+      "path": "assets/lose-7OKFBVIG.wav",
+      "bytes": 52082,
+      "md5": "187c3971f6b67a5e26a3fc5b8c39d3e8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/187c3971f6b67a5e26a3fc5b8c39d3e8.wav"
+    },
+    {
+      "path": "assets/medium-15-I5UA7FJB.webp",
+      "bytes": 98894,
+      "md5": "f229a70ee99b025a5fe8aa6d651548a9",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/f229a70ee99b025a5fe8aa6d651548a9.webp"
+    },
+    {
+      "path": "assets/medium-25-ZBAZJIG2.webp",
+      "bytes": 89280,
+      "md5": "6902dce361eadbcad3fd29d727e05ed6",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6902dce361eadbcad3fd29d727e05ed6.webp"
+    },
+    {
+      "path": "assets/medium-35-Q67LR2VF.webp",
+      "bytes": 64370,
+      "md5": "d6895e3dd3f831a28125109cabe3ff40",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d6895e3dd3f831a28125109cabe3ff40.webp"
+    },
+    {
+      "path": "assets/pkg-NPDVZHZD.webp",
+      "bytes": 292,
+      "md5": "6eed4d48a783c68148d53092231af7fd",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6eed4d48a783c68148d53092231af7fd.webp"
+    },
+    {
+      "path": "assets/rate-discuss-cartoon-v1-5ER5Y37D.webp",
+      "bytes": 49696,
+      "md5": "963f9dca6a10341511c90dc8cd03d97d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/963f9dca6a10341511c90dc8cd03d97d.webp"
+    },
+    {
+      "path": "assets/rocket-ZCQUGSZ7.webp",
+      "bytes": 70394,
+      "md5": "fa7554dd9c1c5938e8c94b90d6c6af3b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/fa7554dd9c1c5938e8c94b90d6c6af3b.webp"
+    },
+    {
+      "path": "assets/search-icon-KKAVUPDX.webp",
+      "bytes": 760,
+      "md5": "2d2c556c69ede7e678deecd3863c7711",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2d2c556c69ede7e678deecd3863c7711.webp"
+    },
+    {
+      "path": "assets/sitemap-RCMOHEZL.webp",
+      "bytes": 326,
+      "md5": "70bb5cb0c5d75e7495471375720fbb49",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/70bb5cb0c5d75e7495471375720fbb49.webp"
+    },
+    {
+      "path": "assets/star-transparent-TXTHAEJP.webp",
+      "bytes": 29082,
+      "md5": "c86b9f76b78a764b30b62473750a7bc9",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c86b9f76b78a764b30b62473750a7bc9.webp"
+    },
+    {
+      "path": "assets/streak-76UBQY4G.wav",
+      "bytes": 52080,
+      "md5": "7841c1a6b591e64f6067951b69eaf2a8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7841c1a6b591e64f6067951b69eaf2a8.wav"
+    },
+    {
+      "path": "assets/subtraction-sprint-answer-green-6QNQE7ZS.webp",
+      "bytes": 531552,
+      "md5": "c300525d8fc790c474bbb10a1fd545d1",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c300525d8fc790c474bbb10a1fd545d1.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-answer-pink-AKZ4W3UL.webp",
+      "bytes": 474364,
+      "md5": "eca6a4f6c470bbf36f1a4aba29768a83",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/eca6a4f6c470bbf36f1a4aba29768a83.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-answer-purple-LENX5AFE.webp",
+      "bytes": 470104,
+      "md5": "7b155fbc80b8a30cf00dfd1e27f623e8",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7b155fbc80b8a30cf00dfd1e27f623e8.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-answer-yellow-DJJHQH2X.webp",
+      "bytes": 423794,
+      "md5": "08f67e79a86da11f0de64494f39d3c4b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/08f67e79a86da11f0de64494f39d3c4b.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-badge-shield-R7MDFSHN.webp",
+      "bytes": 639344,
+      "md5": "e916214ecb93ca2059f2668b85ba7cf7",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e916214ecb93ca2059f2668b85ba7cf7.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-decor-overlay-GHT55O4I.webp",
+      "bytes": 68456,
+      "md5": "56c69526bcf77e973abf68182331430f",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/56c69526bcf77e973abf68182331430f.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-game-background-UAGP75BL.webp",
+      "bytes": 112456,
+      "md5": "190ffd5a00af0214bee82c7bda7e3fbb",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/190ffd5a00af0214bee82c7bda7e3fbb.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-game-title-plaque-2DO5JQZJ.webp",
+      "bytes": 541600,
+      "md5": "8c1bf6f9acf5d5f9d7ed32339e8c180b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/8c1bf6f9acf5d5f9d7ed32339e8c180b.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-happy-sun-32QVDGPF.webp",
+      "bytes": 201140,
+      "md5": "3867b56c4bda0fe4ba85875ffdf5da53",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3867b56c4bda0fe4ba85875ffdf5da53.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-heading-star-E6QOHPGS.webp",
+      "bytes": 247952,
+      "md5": "48ac91c6cc701d00e022c3a0113af4eb",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/48ac91c6cc701d00e022c3a0113af4eb.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-hero-plaque-W4IO5IVZ.webp",
+      "bytes": 603530,
+      "md5": "636fb349de5f62837f590bba63377afe",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/636fb349de5f62837f590bba63377afe.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-meadow-foreground-EHH6OVEI.webp",
+      "bytes": 728258,
+      "md5": "2f3b77fd4c1a502612a66da4078d70ca",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2f3b77fd4c1a502612a66da4078d70ca.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-medium-star-CDZMHNXB.webp",
+      "bytes": 301524,
+      "md5": "9accc0d06505a0355fdc5c1b546320b2",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/9accc0d06505a0355fdc5c1b546320b2.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-minus-medallion-6TWRERVV.webp",
+      "bytes": 368882,
+      "md5": "4b2240a5b0ccb008d6235bd6ab6f7769",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/4b2240a5b0ccb008d6235bd6ab6f7769.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-nav-shell-X5R6FT2R.webp",
+      "bytes": 333800,
+      "md5": "3bce70d7e8c1bcd98cb9276d45805e43",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3bce70d7e8c1bcd98cb9276d45805e43.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-rate-share-VWHINKYO.webp",
+      "bytes": 414296,
+      "md5": "d054d4d8c5ea3cdcd73334831bb6a86d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d054d4d8c5ea3cdcd73334831bb6a86d.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-background-IX7EPIGM.webp",
+      "bytes": 102908,
+      "md5": "52c43c6a1f215ee47aba6aa8a16bc45b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/52c43c6a1f215ee47aba6aa8a16bc45b.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-badge-ST6ZH56W.webp",
+      "bytes": 10554,
+      "md5": "c2e611380d0fc7532a394f433c96091e",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c2e611380d0fc7532a394f433c96091e.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-chalk-text-FMHVIGPP.webp",
+      "bytes": 19410,
+      "md5": "4475ae4ce2336aad6751e57511f63e0e",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/4475ae4ce2336aad6751e57511f63e0e.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-hero-CLXXLMV5.webp",
+      "bytes": 402662,
+      "md5": "3bafa8d73b390e3c8f708ad2c17488d0",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3bafa8d73b390e3c8f708ad2c17488d0.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-podium-55SQJR73.webp",
+      "bytes": 357862,
+      "md5": "834d2bf81e154b95fcc08789cee9a1a9",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/834d2bf81e154b95fcc08789cee9a1a9.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-round-over-title-RRP4DX6X.webp",
+      "bytes": 67432,
+      "md5": "ea554cee685a725c4de9c14fbd499cbd",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/ea554cee685a725c4de9c14fbd499cbd.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-scenic-background-TGQMCLRQ.webp",
+      "bytes": 78016,
+      "md5": "c724c1a6a7799049844f48345327443d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c724c1a6a7799049844f48345327443d.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-score-star-XIPDOR57.webp",
+      "bytes": 363630,
+      "md5": "fc1a6a74e593c4e4f1ffd67928ea7657",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/fc1a6a74e593c4e4f1ffd67928ea7657.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-solve-ribbon-56IJBP7K.webp",
+      "bytes": 219748,
+      "md5": "2f2c50f40ccfff93c5977a5aac7e75ef",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2f2c50f40ccfff93c5977a5aac7e75ef.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-streak-fire-VYQBJ6KK.webp",
+      "bytes": 419770,
+      "md5": "fa42ef7c60833d930f183f1c2f1cf72d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/fa42ef7c60833d930f183f1c2f1cf72d.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-timer-clock-RFWZMINC.webp",
+      "bytes": 431932,
+      "md5": "78674b3b244c20236a18c00175e07b96",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/78674b3b244c20236a18c00175e07b96.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-trophy-UJJ6D37G.webp",
+      "bytes": 314664,
+      "md5": "20c92c9c20e80ff83c7cd130156c7611",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/20c92c9c20e80ff83c7cd130156c7611.webp"
+    },
+    {
+      "path": "assets/subtraction-sprint-wordmark-7WZSDIZR.webp",
+      "bytes": 658016,
+      "md5": "ebf1c0d6e6d43231e94baf043520dd04",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/ebf1c0d6e6d43231e94baf043520dd04.webp"
+    },
+    {
+      "path": "assets/trophy-transparent-T27P7BG2.webp",
+      "bytes": 35864,
+      "md5": "e9ec85230b0a3b0123a9b0d6cf3b5a8f",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e9ec85230b0a3b0123a9b0d6cf3b5a8f.webp"
+    },
+    {
+      "path": "assets/ui-tap-ZFTK4NRP.wav",
+      "bytes": 3132,
+      "md5": "c18ef2d7744900f024324d737d7bcc54",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c18ef2d7744900f024324d737d7bcc54.wav"
+    },
+    {
+      "path": "assets/unmatched-Y4PIRDYU.webp",
+      "bytes": 4092,
+      "md5": "6afdf91e0890a6025ab3cd605d94a033",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6afdf91e0890a6025ab3cd605d94a033.webp"
+    },
+    {
+      "path": "assets/win-UXAEYDZX.wav",
+      "bytes": 81188,
+      "md5": "111da855f31c07b621ade1e04d7bd694",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/111da855f31c07b621ade1e04d7bd694.wav"
+    },
+    {
+      "path": "assets/wrong-EPMQ6SGM.wav",
+      "bytes": 37088,
+      "md5": "05e5ce0676a7fa4702adadf9a157ecc7",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/05e5ce0676a7fa4702adadf9a157ecc7.wav"
+    },
+    {
+      "path": "game.js",
+      "bytes": 1917447,
+      "md5": "d05f630efbe3c2ad4acc580d3b96f1f7",
+      "contentType": "text/javascript; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d05f630efbe3c2ad4acc580d3b96f1f7.js"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946282,
+      "md5": "09e7c7d5dada9e0099497150cc36ecb8",
+      "contentType": "text/html; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/09e7c7d5dada9e0099497150cc36ecb8.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T16:59:50.414Z"
+}

@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "gameId": "complete_the_picture",
+  "version": "1.0.8",
+  "engine": "web-game-v1",
+  "title": "Complete The Picture",
+  "totalBytes": 7775704,
+  "files": [
+    {
+      "path": "assets/bear-bakery-YZ43GQ2C.webp",
+      "bytes": 182900,
+      "md5": "d930b09c77756e7382b25e4ffa2ff4e3",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d930b09c77756e7382b25e4ffa2ff4e3.webp"
+    },
+    {
+      "path": "assets/board-2NQ5ADNZ.webp",
+      "bytes": 199604,
+      "md5": "fa46b36a27854d666cb997d67744a939",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/fa46b36a27854d666cb997d67744a939.webp"
+    },
+    {
+      "path": "assets/bunny-garden-66VLK236.webp",
+      "bytes": 197826,
+      "md5": "a8501e1e00e046cd48858869046196b1",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/a8501e1e00e046cd48858869046196b1.webp"
+    },
+    {
+      "path": "assets/coral-kingdom-WPDJEZ6Q.webp",
+      "bytes": 325118,
+      "md5": "0daf3ea847cf5a9427af011b248efb74",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/0daf3ea847cf5a9427af011b248efb74.webp"
+    },
+    {
+      "path": "assets/correct-DGTSYNLL.wav",
+      "bytes": 34442,
+      "md5": "3eb1ea8fce8d68e650d00029755afcbf",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3eb1ea8fce8d68e650d00029755afcbf.wav"
+    },
+    {
+      "path": "assets/dinosaur-valley-ZGZSSLGT.webp",
+      "bytes": 333740,
+      "md5": "affa1ccb569ed997da4ab5d57adc3af0",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/affa1ccb569ed997da4ab5d57adc3af0.webp"
+    },
+    {
+      "path": "assets/dragon-castle-FUFVAC2W.webp",
+      "bytes": 305946,
+      "md5": "e0269b027c30f7b3ddadc5b7f8c0be9f",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e0269b027c30f7b3ddadc5b7f8c0be9f.webp"
+    },
+    {
+      "path": "assets/elephant-pond-v2-ID6A44HV.webp",
+      "bytes": 130950,
+      "md5": "65cd8735a6db53cb2b5691820d1220ad",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/65cd8735a6db53cb2b5691820d1220ad.webp"
+    },
+    {
+      "path": "assets/Faruma-NZAFNB5Z.ttf",
+      "bytes": 47504,
+      "md5": "1003209906e3d9363f3ec44a8070d95d",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/1003209906e3d9363f3ec44a8070d95d.ttf"
+    },
+    {
+      "path": "assets/fox-camp-XXPG5QOL.webp",
+      "bytes": 294454,
+      "md5": "bebe1e5a3963c2bf79a0c668158294c4",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/bebe1e5a3963c2bf79a0c668158294c4.webp"
+    },
+    {
+      "path": "assets/Ionicons-L26UPCYG.ttf",
+      "bytes": 442604,
+      "md5": "6148e7019854f3bde85b633cb88f3c25",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6148e7019854f3bde85b633cb88f3c25.ttf"
+    },
+    {
+      "path": "assets/jungle-temple-MI627UOS.webp",
+      "bytes": 339750,
+      "md5": "611f5e4c2c137bb666bd68f5624906aa",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/611f5e4c2c137bb666bd68f5624906aa.webp"
+    },
+    {
+      "path": "assets/koala-treehouse-CLDT3ATB.webp",
+      "bytes": 291776,
+      "md5": "7b1c1774c313d32f0edb8a8741b9ec2d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7b1c1774c313d32f0edb8a8741b9ec2d.webp"
+    },
+    {
+      "path": "assets/lose-7OKFBVIG.wav",
+      "bytes": 52082,
+      "md5": "187c3971f6b67a5e26a3fc5b8c39d3e8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/187c3971f6b67a5e26a3fc5b8c39d3e8.wav"
+    },
+    {
+      "path": "assets/moon-station-PROKOOYF.webp",
+      "bytes": 333838,
+      "md5": "dc1d60740560f2ac588c7b632c9ac005",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/dc1d60740560f2ac588c7b632c9ac005.webp"
+    },
+    {
+      "path": "assets/otter-river-YRMG52TU.webp",
+      "bytes": 239276,
+      "md5": "720282b4036aac6573bdf5363ffd9c31",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/720282b4036aac6573bdf5363ffd9c31.webp"
+    },
+    {
+      "path": "assets/owl-library-DUB5D5WP.webp",
+      "bytes": 284700,
+      "md5": "bc6737ff0d389fa50fec1598594aeda1",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/bc6737ff0d389fa50fec1598594aeda1.webp"
+    },
+    {
+      "path": "assets/panda-picnic-LUESXKYI.webp",
+      "bytes": 275298,
+      "md5": "27eea7603588502a78b4c16b2975c97c",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/27eea7603588502a78b4c16b2975c97c.webp"
+    },
+    {
+      "path": "assets/parrot-waterfall-KF67ZOLG.webp",
+      "bytes": 289926,
+      "md5": "617e76ad054474658c8b32f48eb62c67",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/617e76ad054474658c8b32f48eb62c67.webp"
+    },
+    {
+      "path": "assets/penguin-beach-BLST4XQH.webp",
+      "bytes": 179072,
+      "md5": "429a9ebed50405aeeb7635b5148589c4",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/429a9ebed50405aeeb7635b5148589c4.webp"
+    },
+    {
+      "path": "assets/pirate-island-MHBODEO6.webp",
+      "bytes": 326010,
+      "md5": "297d92e1062c66abc513258a13504fba",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/297d92e1062c66abc513258a13504fba.webp"
+    },
+    {
+      "path": "assets/streak-76UBQY4G.wav",
+      "bytes": 52080,
+      "md5": "7841c1a6b591e64f6067951b69eaf2a8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7841c1a6b591e64f6067951b69eaf2a8.wav"
+    },
+    {
+      "path": "assets/tractor-farm-FPUXG2ZY.webp",
+      "bytes": 138880,
+      "md5": "42773463e86e256d334bef31fe939f21",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/42773463e86e256d334bef31fe939f21.webp"
+    },
+    {
+      "path": "assets/ui-tap-ZFTK4NRP.wav",
+      "bytes": 3132,
+      "md5": "c18ef2d7744900f024324d737d7bcc54",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c18ef2d7744900f024324d737d7bcc54.wav"
+    },
+    {
+      "path": "assets/whale-friends-CHENP6VG.webp",
+      "bytes": 131750,
+      "md5": "589638762a4b56eaea05274670b2b71b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/589638762a4b56eaea05274670b2b71b.webp"
+    },
+    {
+      "path": "assets/win-UXAEYDZX.wav",
+      "bytes": 81188,
+      "md5": "111da855f31c07b621ade1e04d7bd694",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/111da855f31c07b621ade1e04d7bd694.wav"
+    },
+    {
+      "path": "assets/wrong-EPMQ6SGM.wav",
+      "bytes": 37088,
+      "md5": "05e5ce0676a7fa4702adadf9a157ecc7",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/05e5ce0676a7fa4702adadf9a157ecc7.wav"
+    },
+    {
+      "path": "game.js",
+      "bytes": 1278488,
+      "md5": "71ba2ada737632caadefcdeb9b28027b",
+      "contentType": "text/javascript; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/71ba2ada737632caadefcdeb9b28027b.js"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946282,
+      "md5": "09e7c7d5dada9e0099497150cc36ecb8",
+      "contentType": "text/html; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/09e7c7d5dada9e0099497150cc36ecb8.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T16:56:33.799Z"
+}

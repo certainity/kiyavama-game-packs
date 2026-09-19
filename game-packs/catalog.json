@@ -1,0 +1,837 @@
+{
+  "schemaVersion": 1,
+  "provider": "github-pages",
+  "publishedAt": "2026-09-19T17:00:17.741Z",
+  "packs": {
+    "a_to_z_words": {
+      "gameId": "a_to_z_words",
+      "version": "1.1.10",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/a-to-z-words/v1.1.10/manifest.json",
+      "sizeBytes": 9529075,
+      "fileCount": 69,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "addition": {
+      "gameId": "addition",
+      "version": "1.0.11",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/addition/v1.0.11/manifest.json",
+      "sizeBytes": 8584061,
+      "fileCount": 61,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "adverb_adventure": {
+      "gameId": "adverb_adventure",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/adverb-adventure/v1.0.8/manifest.json",
+      "sizeBytes": 6268875,
+      "fileCount": 43,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "alphabet": {
+      "gameId": "alphabet",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/alphabet/v1.0.8/manifest.json",
+      "sizeBytes": 3309360,
+      "fileCount": 31,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "animal_kingdom": {
+      "gameId": "animal_kingdom",
+      "version": "1.1.5",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/animal-kingdom/v1.1.5/manifest.json",
+      "sizeBytes": 26363778,
+      "fileCount": 217,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "arabic_first_sounds": {
+      "gameId": "arabic_first_sounds",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/arabic-first-sounds/v1.0.8/manifest.json",
+      "sizeBytes": 21162399,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "arabic_letter_match": {
+      "gameId": "arabic_letter_match",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/arabic-letter-match/v1.0.8/manifest.json",
+      "sizeBytes": 21160425,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "arabic_memory": {
+      "gameId": "arabic_memory",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/arabic-memory/v1.0.8/manifest.json",
+      "sizeBytes": 3434413,
+      "fileCount": 27,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "capital_cities": {
+      "gameId": "capital_cities",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/capital-cities/v1.0.8/manifest.json",
+      "sizeBytes": 4913252,
+      "fileCount": 40,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "carrom": {
+      "gameId": "carrom",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/carrom/v1.0.8/manifest.json",
+      "sizeBytes": 4184302,
+      "fileCount": 44,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "chess": {
+      "gameId": "chess",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/chess/v1.0.8/manifest.json",
+      "sizeBytes": 6165105,
+      "fileCount": 43,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "clock_master": {
+      "gameId": "clock_master",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/clock-master/v1.0.8/manifest.json",
+      "sizeBytes": 3476912,
+      "fileCount": 30,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "color_by_math": {
+      "gameId": "color_by_math",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/color-by-math/v1.0.8/manifest.json",
+      "sizeBytes": 6789611,
+      "fileCount": 262,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "coloring": {
+      "gameId": "coloring",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/coloring/v1.0.8/manifest.json",
+      "sizeBytes": 19735206,
+      "fileCount": 51,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "coloring_fun": {
+      "gameId": "coloring_fun",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/coloring-fun/v1.0.8/manifest.json",
+      "sizeBytes": 10045756,
+      "fileCount": 889,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "complete_the_picture": {
+      "gameId": "complete_the_picture",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/complete-the-picture/v1.0.8/manifest.json",
+      "sizeBytes": 7775704,
+      "fileCount": 29,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "connect4": {
+      "gameId": "connect4",
+      "version": "1.1.6",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/connect4/v1.1.6/manifest.json",
+      "sizeBytes": 8162066,
+      "fileCount": 49,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "connect_the_dots": {
+      "gameId": "connect_the_dots",
+      "version": "1.0.9",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/connect-the-dots/v1.0.9/manifest.json",
+      "sizeBytes": 4188125,
+      "fileCount": 16,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "count": {
+      "gameId": "count",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/count/v1.0.8/manifest.json",
+      "sizeBytes": 7577083,
+      "fileCount": 82,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "count_and_tap": {
+      "gameId": "count_and_tap",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/count-and-tap/v1.0.8/manifest.json",
+      "sizeBytes": 21425136,
+      "fileCount": 221,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_antonyms": {
+      "gameId": "dhivehi_antonyms",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-antonyms/v1.0.8/manifest.json",
+      "sizeBytes": 21213256,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_atolls": {
+      "gameId": "dhivehi_atolls",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-atolls/v1.0.8/manifest.json",
+      "sizeBytes": 21213254,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_colors": {
+      "gameId": "dhivehi_colors",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-colors/v1.0.8/manifest.json",
+      "sizeBytes": 16926824,
+      "fileCount": 172,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_count": {
+      "gameId": "dhivehi_count",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-count/v1.0.8/manifest.json",
+      "sizeBytes": 4481877,
+      "fileCount": 35,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_first_sounds": {
+      "gameId": "dhivehi_first_sounds",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-first-sounds/v1.0.8/manifest.json",
+      "sizeBytes": 21163316,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_gender": {
+      "gameId": "dhivehi_gender",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-gender/v1.0.8/manifest.json",
+      "sizeBytes": 21213254,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_grammar_sort": {
+      "gameId": "dhivehi_grammar_sort",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-grammar-sort/v1.0.8/manifest.json",
+      "sizeBytes": 21213260,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_islands": {
+      "gameId": "dhivehi_islands",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-islands/v1.0.8/manifest.json",
+      "sizeBytes": 21213255,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_letter_image": {
+      "gameId": "dhivehi_letter_image",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-letter-image/v1.0.8/manifest.json",
+      "sizeBytes": 21163360,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_letter_letter": {
+      "gameId": "dhivehi_letter_letter",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-letter-letter/v1.0.8/manifest.json",
+      "sizeBytes": 5701183,
+      "fileCount": 36,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_letter_tracing": {
+      "gameId": "dhivehi_letter_tracing",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-letter-tracing/v1.0.8/manifest.json",
+      "sizeBytes": 3263198,
+      "fileCount": 52,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_marine": {
+      "gameId": "dhivehi_marine",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-marine/v1.0.8/manifest.json",
+      "sizeBytes": 21213254,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_master_quiz": {
+      "gameId": "dhivehi_master_quiz",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-master-quiz/v1.0.8/manifest.json",
+      "sizeBytes": 21169898,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_memory": {
+      "gameId": "dhivehi_memory",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-memory/v1.0.8/manifest.json",
+      "sizeBytes": 4284200,
+      "fileCount": 81,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_occupations": {
+      "gameId": "dhivehi_occupations",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-occupations/v1.0.8/manifest.json",
+      "sizeBytes": 21213259,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_produce": {
+      "gameId": "dhivehi_produce",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-produce/v1.0.8/manifest.json",
+      "sizeBytes": 21213255,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_proverbs": {
+      "gameId": "dhivehi_proverbs",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-proverbs/v1.0.8/manifest.json",
+      "sizeBytes": 21213256,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_riddles": {
+      "gameId": "dhivehi_riddles",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-riddles/v1.0.8/manifest.json",
+      "sizeBytes": 3450748,
+      "fileCount": 27,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_scramble": {
+      "gameId": "dhivehi_scramble",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-scramble/v1.0.8/manifest.json",
+      "sizeBytes": 21835584,
+      "fileCount": 276,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_sentence_builder": {
+      "gameId": "dhivehi_sentence_builder",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-sentence-builder/v1.0.8/manifest.json",
+      "sizeBytes": 5406300,
+      "fileCount": 30,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_shapes": {
+      "gameId": "dhivehi_shapes",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-shapes/v1.0.8/manifest.json",
+      "sizeBytes": 10950365,
+      "fileCount": 77,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_synonyms": {
+      "gameId": "dhivehi_synonyms",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-synonyms/v1.0.8/manifest.json",
+      "sizeBytes": 21213256,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_vowel_hunt": {
+      "gameId": "dhivehi_vowel_hunt",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-vowel-hunt/v1.0.8/manifest.json",
+      "sizeBytes": 21213258,
+      "fileCount": 205,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_word_image": {
+      "gameId": "dhivehi_word_image",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-word-image/v1.0.8/manifest.json",
+      "sizeBytes": 11334984,
+      "fileCount": 93,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dhivehi_word_search": {
+      "gameId": "dhivehi_word_search",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dhivehi-word-search/v1.0.8/manifest.json",
+      "sizeBytes": 18876394,
+      "fileCount": 175,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "dictation": {
+      "gameId": "dictation",
+      "version": "1.0.13",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/dictation/v1.0.13/manifest.json",
+      "sizeBytes": 11988403,
+      "fileCount": 58,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "divide_groups": {
+      "gameId": "divide_groups",
+      "version": "1.0.9",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/divide-groups/v1.0.9/manifest.json",
+      "sizeBytes": 9234564,
+      "fileCount": 61,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "english_letter_tracing": {
+      "gameId": "english_letter_tracing",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/english-letter-tracing/v1.0.8/manifest.json",
+      "sizeBytes": 3903710,
+      "fileCount": 30,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "feshey_akuru": {
+      "gameId": "feshey_akuru",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/feshey-akuru/v1.0.8/manifest.json",
+      "sizeBytes": 20153024,
+      "fileCount": 103,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "find_the_letter": {
+      "gameId": "find_the_letter",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/find-the-letter/v1.0.8/manifest.json",
+      "sizeBytes": 25969479,
+      "fileCount": 214,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "find_the_number": {
+      "gameId": "find_the_number",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/find-the-number/v1.0.8/manifest.json",
+      "sizeBytes": 27473851,
+      "fileCount": 217,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "first_sounds": {
+      "gameId": "first_sounds",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/first-sounds/v1.0.8/manifest.json",
+      "sizeBytes": 21251255,
+      "fileCount": 206,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "grammar_quiz": {
+      "gameId": "grammar_quiz",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/grammar-quiz/v1.0.8/manifest.json",
+      "sizeBytes": 5770977,
+      "fileCount": 37,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "guess_the_country": {
+      "gameId": "guess_the_country",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/guess-the-country/v1.0.8/manifest.json",
+      "sizeBytes": 10109508,
+      "fileCount": 96,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "haashaviyani_kiyama": {
+      "gameId": "haashaviyani_kiyama",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/haashaviyani-kiyama/v1.0.8/manifest.json",
+      "sizeBytes": 3390835,
+      "fileCount": 52,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "hangman": {
+      "gameId": "hangman",
+      "version": "1.1.10",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/hangman/v1.1.10/manifest.json",
+      "sizeBytes": 7753118,
+      "fileCount": 34,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "healthy_bites": {
+      "gameId": "healthy_bites",
+      "version": "1.0.11",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/healthy-bites/v1.0.11/manifest.json",
+      "sizeBytes": 28657659,
+      "fileCount": 220,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "letter_match": {
+      "gameId": "letter_match",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/letter-match/v1.0.8/manifest.json",
+      "sizeBytes": 21233329,
+      "fileCount": 206,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "memory": {
+      "gameId": "memory",
+      "version": "1.1.7",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/memory/v1.1.7/manifest.json",
+      "sizeBytes": 11318378,
+      "fileCount": 60,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "mouse_maze": {
+      "gameId": "mouse_maze",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/mouse-maze/v1.0.8/manifest.json",
+      "sizeBytes": 3826042,
+      "fileCount": 21,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "multiplication": {
+      "gameId": "multiplication",
+      "version": "1.0.13",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/multiplication/v1.0.13/manifest.json",
+      "sizeBytes": 21136594,
+      "fileCount": 82,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "noun_verb": {
+      "gameId": "noun_verb",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/noun-verb/v1.0.8/manifest.json",
+      "sizeBytes": 7419339,
+      "fileCount": 58,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "number_match": {
+      "gameId": "number_match",
+      "version": "1.1.7",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/number-match/v1.1.7/manifest.json",
+      "sizeBytes": 9766681,
+      "fileCount": 59,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "opposites_match": {
+      "gameId": "opposites_match",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/opposites-match/v1.0.8/manifest.json",
+      "sizeBytes": 21254464,
+      "fileCount": 206,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "place_value_adventure": {
+      "gameId": "place_value_adventure",
+      "version": "1.1.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/place-value-adventure/v1.1.8/manifest.json",
+      "sizeBytes": 6629900,
+      "fileCount": 41,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "proverb_puzzle": {
+      "gameId": "proverb_puzzle",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/proverb-puzzle/v1.0.8/manifest.json",
+      "sizeBytes": 6233000,
+      "fileCount": 43,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "quiz": {
+      "gameId": "quiz",
+      "version": "1.0.9",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/quiz/v1.0.9/manifest.json",
+      "sizeBytes": 5060916,
+      "fileCount": 37,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "riddle_time": {
+      "gameId": "riddle_time",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/riddle-time/v1.0.8/manifest.json",
+      "sizeBytes": 32612165,
+      "fileCount": 232,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "scrabble": {
+      "gameId": "scrabble",
+      "version": "1.2.6",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/scrabble/v1.2.6/manifest.json",
+      "sizeBytes": 13828044,
+      "fileCount": 47,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "scramble": {
+      "gameId": "scramble",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/scramble/v1.0.8/manifest.json",
+      "sizeBytes": 5745792,
+      "fileCount": 63,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "shapes_colors": {
+      "gameId": "shapes_colors",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/shapes-colors/v1.0.8/manifest.json",
+      "sizeBytes": 21229790,
+      "fileCount": 206,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "sliding": {
+      "gameId": "sliding",
+      "version": "1.1.9",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/sliding/v1.1.9/manifest.json",
+      "sizeBytes": 23001589,
+      "fileCount": 48,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "solar_system": {
+      "gameId": "solar_system",
+      "version": "1.1.6",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/solar-system/v1.1.6/manifest.json",
+      "sizeBytes": 31853346,
+      "fileCount": 225,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "subtraction": {
+      "gameId": "subtraction",
+      "version": "1.0.9",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/subtraction/v1.0.9/manifest.json",
+      "sizeBytes": 14556975,
+      "fileCount": 76,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "thaana_crush": {
+      "gameId": "thaana_crush",
+      "version": "1.0.10",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/thaana-crush/v1.0.10/manifest.json",
+      "sizeBytes": 18715299,
+      "fileCount": 190,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "think_eat_learn": {
+      "gameId": "think_eat_learn",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/think-eat-learn/v1.0.8/manifest.json",
+      "sizeBytes": 2682806,
+      "fileCount": 5,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "tic_tac_toe": {
+      "gameId": "tic_tac_toe",
+      "version": "1.0.5",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/tic-tac-toe/v1.0.5/manifest.json",
+      "sizeBytes": 3572415,
+      "fileCount": 4,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "vowel_hunt": {
+      "gameId": "vowel_hunt",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/vowel-hunt/v1.0.8/manifest.json",
+      "sizeBytes": 7127166,
+      "fileCount": 52,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "word_builder": {
+      "gameId": "word_builder",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/word-builder/v1.0.8/manifest.json",
+      "sizeBytes": 3412042,
+      "fileCount": 17,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "word_search_puzzle": {
+      "gameId": "word_search_puzzle",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/word-search-puzzle/v1.0.8/manifest.json",
+      "sizeBytes": 5725607,
+      "fileCount": 37,
+      "minimumAppVersion": "3.7.19",
+      "minimumAppBuild": 91
+    },
+    "kiyavama_play": {
+      "gameId": "kiyavama_play",
+      "version": "1.0.8",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/kiyavama-play/v1.0.8/manifest.json",
+      "sizeBytes": 30469852,
+      "fileCount": 1,
+      "minimumAppVersion": "3.7.22",
+      "minimumAppBuild": 100
+    },
+    "mouse_maze_adventure": {
+      "gameId": "mouse_maze_adventure",
+      "version": "0.6.5",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/mouse-maze-adventure/v0.6.5/manifest.json",
+      "sizeBytes": 6442097,
+      "fileCount": 27,
+      "minimumAppVersion": "3.7.20",
+      "minimumAppBuild": 95
+    },
+    "math_crossword": {
+      "gameId": "math_crossword",
+      "version": "1.1.4",
+      "engine": "web-game-v1",
+      "manifestUrl": "https://certainity.github.io/kiyavama-game-packs/game-packs/math-crossword/v1.1.4/manifest.json",
+      "sizeBytes": 16315,
+      "fileCount": 1,
+      "minimumAppVersion": "3.7.20",
+      "minimumAppBuild": 95
+    }
+  }
+}

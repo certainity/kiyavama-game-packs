@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kiyavama_play",
+  "version": "1.0.8",
+  "engine": "web-game-v1",
+  "title": "Bunny’s Play Garden",
+  "totalBytes": 30469852,
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 30469852,
+      "md5": "4d2e1ef13ab0a0fcacbd4eb4d9c38c57",
+      "contentType": "text/html",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/4d2e1ef13ab0a0fcacbd4eb4d9c38c57.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T17:00:17.709Z"
+}

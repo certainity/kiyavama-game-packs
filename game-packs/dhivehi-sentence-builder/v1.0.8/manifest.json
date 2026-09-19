@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "gameId": "dhivehi_sentence_builder",
+  "version": "1.0.8",
+  "engine": "web-game-v1",
+  "title": "Dhivehi Sentence Builder",
+  "totalBytes": 5406300,
+  "files": [
+    {
+      "path": "assets/age-3-5-OW54PEEW.webp",
+      "bytes": 565744,
+      "md5": "4ca8226a7a2511c6825a9738641825f1",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/4ca8226a7a2511c6825a9738641825f1.webp"
+    },
+    {
+      "path": "assets/age-6-8-NRY3UAEN.webp",
+      "bytes": 671136,
+      "md5": "2f1cb3971a9075edf855a6ad885833f3",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2f1cb3971a9075edf855a6ad885833f3.webp"
+    },
+    {
+      "path": "assets/age-9-12-UDWZKUUM.webp",
+      "bytes": 666156,
+      "md5": "0d865124f394df1edc1cc520a7584cd6",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/0d865124f394df1edc1cc520a7584cd6.webp"
+    },
+    {
+      "path": "assets/arrow_down-SYMJRS3W.webp",
+      "bytes": 138,
+      "md5": "9405959f6a0f8493da0f836312d5c80a",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/9405959f6a0f8493da0f836312d5c80a.webp"
+    },
+    {
+      "path": "assets/back-icon-mask-BF4MANEU.webp",
+      "bytes": 552,
+      "md5": "cbe32eca9dae44deb214fdff349dd92d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/cbe32eca9dae44deb214fdff349dd92d.webp"
+    },
+    {
+      "path": "assets/back-icon-TRKDMJBN.webp",
+      "bytes": 152,
+      "md5": "e2600570857922d948b3de58cddd3bde",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e2600570857922d948b3de58cddd3bde.webp"
+    },
+    {
+      "path": "assets/boy1-SLOEFJNV.webp",
+      "bytes": 4420,
+      "md5": "3e4bde676c2c84fa7862b1b9e6a966a4",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3e4bde676c2c84fa7862b1b9e6a966a4.webp"
+    },
+    {
+      "path": "assets/boy2-LUR3UO2B.webp",
+      "bytes": 6096,
+      "md5": "124df672fa1baccd7dc822e057fd6a4d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/124df672fa1baccd7dc822e057fd6a4d.webp"
+    },
+    {
+      "path": "assets/boy3-PZNNL7Z7.webp",
+      "bytes": 4074,
+      "md5": "a794ed3385838515f5cdb9a21d268a48",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/a794ed3385838515f5cdb9a21d268a48.webp"
+    },
+    {
+      "path": "assets/boy4-7NOL7RAA.webp",
+      "bytes": 4226,
+      "md5": "a7cbe62168b00fad14f4ece567cffbae",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/a7cbe62168b00fad14f4ece567cffbae.webp"
+    },
+    {
+      "path": "assets/boy5-4O47UDOT.webp",
+      "bytes": 5554,
+      "md5": "28eb54b512bfb2aa0e8df605a12d907f",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/28eb54b512bfb2aa0e8df605a12d907f.webp"
+    },
+    {
+      "path": "assets/boy6-TLXZ3DC6.webp",
+      "bytes": 5420,
+      "md5": "80001733d1a6649a78c92b10f951d253",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/80001733d1a6649a78c92b10f951d253.webp"
+    },
+    {
+      "path": "assets/clear-icon-STR7Y4UN.webp",
+      "bytes": 530,
+      "md5": "d4e20d49ce2d60d8924440c3d048f4d0",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d4e20d49ce2d60d8924440c3d048f4d0.webp"
+    },
+    {
+      "path": "assets/close-icon-YRORH3FD.webp",
+      "bytes": 238,
+      "md5": "2e881882d973616cd97611226d3348f3",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2e881882d973616cd97611226d3348f3.webp"
+    },
+    {
+      "path": "assets/error-HTMUUXQM.webp",
+      "bytes": 378,
+      "md5": "c5e28de31fb108c547923473364d438a",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c5e28de31fb108c547923473364d438a.webp"
+    },
+    {
+      "path": "assets/Faruma-NZAFNB5Z.ttf",
+      "bytes": 47504,
+      "md5": "1003209906e3d9363f3ec44a8070d95d",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/1003209906e3d9363f3ec44a8070d95d.ttf"
+    },
+    {
+      "path": "assets/file-N3G4PRH4.webp",
+      "bytes": 92,
+      "md5": "96d1901f77af4f512cead17ebad3e413",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/96d1901f77af4f512cead17ebad3e413.webp"
+    },
+    {
+      "path": "assets/forward-5RS2TFE6.webp",
+      "bytes": 142,
+      "md5": "25a6f00cbb0ac98b5aac3eee1992945c",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/25a6f00cbb0ac98b5aac3eee1992945c.webp"
+    },
+    {
+      "path": "assets/girl1-H3HEY4QY.webp",
+      "bytes": 5152,
+      "md5": "2eab466881f70b8d16d8746e14505039",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2eab466881f70b8d16d8746e14505039.webp"
+    },
+    {
+      "path": "assets/girl2-7HABBTNQ.webp",
+      "bytes": 4576,
+      "md5": "b64f4e8164e8af584d73e34aa117563b",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/b64f4e8164e8af584d73e34aa117563b.webp"
+    },
+    {
+      "path": "assets/girl3-5DHPUZGR.webp",
+      "bytes": 4968,
+      "md5": "19c3786e7f05d9ee43025a45820a0925",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/19c3786e7f05d9ee43025a45820a0925.webp"
+    },
+    {
+      "path": "assets/girl4-DA3VFDIO.webp",
+      "bytes": 5732,
+      "md5": "d927b46fc94e8e8dec14302c92664056",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d927b46fc94e8e8dec14302c92664056.webp"
+    },
+    {
+      "path": "assets/Ionicons-L26UPCYG.ttf",
+      "bytes": 442604,
+      "md5": "6148e7019854f3bde85b633cb88f3c25",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6148e7019854f3bde85b633cb88f3c25.ttf"
+    },
+    {
+      "path": "assets/pkg-NPDVZHZD.webp",
+      "bytes": 292,
+      "md5": "6eed4d48a783c68148d53092231af7fd",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6eed4d48a783c68148d53092231af7fd.webp"
+    },
+    {
+      "path": "assets/rate-discuss-cartoon-v1-5ER5Y37D.webp",
+      "bytes": 49696,
+      "md5": "963f9dca6a10341511c90dc8cd03d97d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/963f9dca6a10341511c90dc8cd03d97d.webp"
+    },
+    {
+      "path": "assets/search-icon-KKAVUPDX.webp",
+      "bytes": 760,
+      "md5": "2d2c556c69ede7e678deecd3863c7711",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2d2c556c69ede7e678deecd3863c7711.webp"
+    },
+    {
+      "path": "assets/sitemap-RCMOHEZL.webp",
+      "bytes": 326,
+      "md5": "70bb5cb0c5d75e7495471375720fbb49",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/70bb5cb0c5d75e7495471375720fbb49.webp"
+    },
+    {
+      "path": "assets/unmatched-Y4PIRDYU.webp",
+      "bytes": 4092,
+      "md5": "6afdf91e0890a6025ab3cd605d94a033",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6afdf91e0890a6025ab3cd605d94a033.webp"
+    },
+    {
+      "path": "game.js",
+      "bytes": 1959268,
+      "md5": "2304be82f4fff76011aa380b48211dde",
+      "contentType": "text/javascript; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2304be82f4fff76011aa380b48211dde.js"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946282,
+      "md5": "09e7c7d5dada9e0099497150cc36ecb8",
+      "contentType": "text/html; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/09e7c7d5dada9e0099497150cc36ecb8.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T16:57:16.285Z"
+}

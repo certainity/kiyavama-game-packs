@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "gameId": "mouse_maze",
+  "version": "1.0.8",
+  "engine": "web-game-v1",
+  "title": "Mouse Maze",
+  "totalBytes": 3826042,
+  "files": [
+    {
+      "path": "assets/correct-DGTSYNLL.wav",
+      "bytes": 34442,
+      "md5": "3eb1ea8fce8d68e650d00029755afcbf",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3eb1ea8fce8d68e650d00029755afcbf.wav"
+    },
+    {
+      "path": "assets/Faruma-NZAFNB5Z.ttf",
+      "bytes": 47504,
+      "md5": "1003209906e3d9363f3ec44a8070d95d",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/1003209906e3d9363f3ec44a8070d95d.ttf"
+    },
+    {
+      "path": "assets/hedge-texture-v3-MYMEWTYQ.webp",
+      "bytes": 97100,
+      "md5": "c3d69f2ae42629f709c58b068981a543",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c3d69f2ae42629f709c58b068981a543.webp"
+    },
+    {
+      "path": "assets/hero-v2-7BGZ2FSC.webp",
+      "bytes": 96692,
+      "md5": "9ed1862963092d048f0b7f60111cef16",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/9ed1862963092d048f0b7f60111cef16.webp"
+    },
+    {
+      "path": "assets/Ionicons-L26UPCYG.ttf",
+      "bytes": 442604,
+      "md5": "6148e7019854f3bde85b633cb88f3c25",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/6148e7019854f3bde85b633cb88f3c25.ttf"
+    },
+    {
+      "path": "assets/lose-7OKFBVIG.wav",
+      "bytes": 52082,
+      "md5": "187c3971f6b67a5e26a3fc5b8c39d3e8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/187c3971f6b67a5e26a3fc5b8c39d3e8.wav"
+    },
+    {
+      "path": "assets/path-texture-v2-RR47YEUJ.webp",
+      "bytes": 14086,
+      "md5": "3f9073687c3ed21758fca3d793c0e4ea",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3f9073687c3ed21758fca3d793c0e4ea.webp"
+    },
+    {
+      "path": "assets/streak-76UBQY4G.wav",
+      "bytes": 52080,
+      "md5": "7841c1a6b591e64f6067951b69eaf2a8",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7841c1a6b591e64f6067951b69eaf2a8.wav"
+    },
+    {
+      "path": "assets/theme-moonlit-path-VI5V7K2E.webp",
+      "bytes": 53370,
+      "md5": "380cf4763249d11351932ea8b00330de",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/380cf4763249d11351932ea8b00330de.webp"
+    },
+    {
+      "path": "assets/theme-moonlit-wall-F5W6UBJL.webp",
+      "bytes": 95978,
+      "md5": "dc1447006f9b2349eadc35179ca666ad",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/dc1447006f9b2349eadc35179ca666ad.webp"
+    },
+    {
+      "path": "assets/theme-pumpkin-path-ZJM5HME6.webp",
+      "bytes": 59518,
+      "md5": "8e6b63c6a542d844f8f7ec26020988d2",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/8e6b63c6a542d844f8f7ec26020988d2.webp"
+    },
+    {
+      "path": "assets/theme-pumpkin-wall-24ICQDR5.webp",
+      "bytes": 142866,
+      "md5": "2f7b420e4a6d931cf2b928641849c4f8",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2f7b420e4a6d931cf2b928641849c4f8.webp"
+    },
+    {
+      "path": "assets/theme-royal-path-TLWE64HG.webp",
+      "bytes": 45694,
+      "md5": "0f809a65932175d6ad1cad3507695ce7",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/0f809a65932175d6ad1cad3507695ce7.webp"
+    },
+    {
+      "path": "assets/theme-royal-wall-3OZUFQRA.webp",
+      "bytes": 154280,
+      "md5": "2822bcbcadf7a17cfff85dc0801dc1fb",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2822bcbcadf7a17cfff85dc0801dc1fb.webp"
+    },
+    {
+      "path": "assets/theme-woodland-path-TBQGWTXF.webp",
+      "bytes": 52824,
+      "md5": "f9bbb8e54f23f3d3f66831dd50d1bc81",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/f9bbb8e54f23f3d3f66831dd50d1bc81.webp"
+    },
+    {
+      "path": "assets/theme-woodland-wall-EW2VV7FM.webp",
+      "bytes": 108250,
+      "md5": "83a1af07dafd3e1617ce21667cbccb7d",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/83a1af07dafd3e1617ce21667cbccb7d.webp"
+    },
+    {
+      "path": "assets/ui-tap-ZFTK4NRP.wav",
+      "bytes": 3132,
+      "md5": "c18ef2d7744900f024324d737d7bcc54",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c18ef2d7744900f024324d737d7bcc54.wav"
+    },
+    {
+      "path": "assets/win-UXAEYDZX.wav",
+      "bytes": 81188,
+      "md5": "111da855f31c07b621ade1e04d7bd694",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/111da855f31c07b621ade1e04d7bd694.wav"
+    },
+    {
+      "path": "assets/wrong-EPMQ6SGM.wav",
+      "bytes": 37088,
+      "md5": "05e5ce0676a7fa4702adadf9a157ecc7",
+      "contentType": "audio/wav",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/05e5ce0676a7fa4702adadf9a157ecc7.wav"
+    },
+    {
+      "path": "game.js",
+      "bytes": 1208982,
+      "md5": "9e591f83a83ff5f47e32443971247b9c",
+      "contentType": "text/javascript; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/9e591f83a83ff5f47e32443971247b9c.js"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946282,
+      "md5": "09e7c7d5dada9e0099497150cc36ecb8",
+      "contentType": "text/html; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/09e7c7d5dada9e0099497150cc36ecb8.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T16:58:29.733Z"
+}

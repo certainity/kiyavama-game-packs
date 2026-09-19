@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "gameId": "tic_tac_toe",
+  "version": "1.0.5",
+  "engine": "web-game-v1",
+  "title": "Tic Tac Toe",
+  "totalBytes": 3572415,
+  "files": [
+    {
+      "path": "assets/cover-v1-AOVSG3DZ.webp",
+      "bytes": 1428744,
+      "md5": "ac785c195e010304f032969d3d9d203e",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/ac785c195e010304f032969d3d9d203e.webp"
+    },
+    {
+      "path": "assets/Faruma-NZAFNB5Z.ttf",
+      "bytes": 47504,
+      "md5": "1003209906e3d9363f3ec44a8070d95d",
+      "contentType": "font/ttf",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/1003209906e3d9363f3ec44a8070d95d.ttf"
+    },
+    {
+      "path": "game.js",
+      "bytes": 1149885,
+      "md5": "36d56f1a532c8273b0d62e21749b9cb1",
+      "contentType": "text/javascript; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/36d56f1a532c8273b0d62e21749b9cb1.js"
+    },
+    {
+      "path": "index.html",
+      "bytes": 946282,
+      "md5": "09e7c7d5dada9e0099497150cc36ecb8",
+      "contentType": "text/html; charset=utf-8",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/09e7c7d5dada9e0099497150cc36ecb8.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T16:59:54.286Z"
+}

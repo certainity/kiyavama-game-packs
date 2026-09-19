@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#dff5ff" />
+    <link rel="icon" type="image/webp" href="./favicon.webp" />
+    <title>Mouse Maze Adventure</title>
+    <script type="module" crossorigin src="./assets/index-Ciwfnfgf.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DNfHPZ-B.css">
+  </head>
+  <body class="menu-mode" style="--hedge-image: url('./assets/environment/hedge-texture.webp'); --cheese-sheet: url('./assets/collectibles/cheese.png'); --snail-sheet: url('./assets/characters/snail-walk.png')">
+    <div id="app">
+      <header class="topbar">
+        <button id="back-button" class="round-button" aria-label="Back to games"><span class="back-arrow" aria-hidden="true"></span></button>
+        <div class="title-block">
+          <p id="level-eyebrow" class="eyebrow">LEVEL MAP</p>
+          <h1>Mouse Maze Adventure</h1>
+          <span id="map-progress" class="map-progress">0 / 9 STARS</span>
+        </div>
+        <button id="sound-button" class="round-button sound-button" aria-label="Mute sound"><span aria-hidden="true" class="sound-waves"></span></button>
+      </header>
+
+      <nav class="chapter-toolbar" aria-label="Maze chapters">
+        <button id="chapter-prev" class="chapter-arrow" aria-label="Previous chapter">‹</button>
+        <div class="chapter-copy">
+          <span id="chapter-difficulty">EASY TRAILS</span>
+          <strong id="chapter-title">Sunny Garden</strong>
+        </div>
+        <button id="chapter-next" class="chapter-arrow" aria-label="Next chapter">›</button>
+        <button id="how-to-button" class="chapter-help" aria-label="How to play" aria-haspopup="dialog" aria-controls="how-to-panel">?</button>
+      </nav>
+
+      <section class="mission-card" aria-label="Level progress">
+        <span class="mission-star" aria-hidden="true"></span>
+        <div class="mission-copy">
+          <span class="mission-kicker">Your Mission</span>
+          <strong id="mission-text">Choose your next garden trail</strong>
+        </div>
+        <div class="stat-pill crumb-pill"><span class="crumb-art" aria-hidden="true"></span><b id="crumb-count">0/3</b></div>
+        <div class="stat-pill"><span class="footprint" aria-hidden="true"></span><b id="move-count">0</b></div>
+      </section>
+
+      <main class="playfield-shell">
+        <div id="game-canvas" aria-label="Garden maze playfield"></div>
+        <section id="level-select" class="level-select" aria-label="Choose a maze trail">
+          <div class="map-heading">
+            <span class="map-kicker">THREE LITTLE ADVENTURES</span>
+            <h2>Pick a garden trail</h2>
+            <p>Collect crumbs, dodge garden friends, and find the golden cheese.</p>
+          </div>
+          <div id="level-list" class="level-list"></div>
+          <span class="map-mascot mouse-map-mascot" aria-hidden="true"></span>
+          <span class="map-mascot snail-map-mascot" aria-hidden="true"></span>
+          <span class="map-cheese-goal" aria-hidden="true"></span>
+          <button class="map-leaderboard-button" data-leaderboard>Leaderboard</button>
+        </section>
+        <div id="game-toast" class="game-toast" role="status" aria-live="polite"></div>
+        <div id="win-panel" class="win-panel" hidden>
+          <div class="win-cheese" aria-hidden="true"></div>
+          <p class="win-kicker">MAZE COMPLETE</p>
+          <h2>You found the cheese!</h2>
+          <div id="star-row" class="star-row" aria-label="Level rating"></div>
+          <p id="win-summary"></p>
+          <p id="leaderboard-status" role="status" aria-live="polite"></p>
+          <div class="leaderboard-actions">
+            <button class="leaderboard-link" data-leaderboard>View leaderboard</button>
+            <button id="retry-score-button" class="leaderboard-link" hidden>Retry saving</button>
+          </div>
+          <div class="win-actions">
+            <button id="replay-button" class="secondary-action">Play again</button>
+            <button id="continue-button" class="primary-action">Next trail</button>
+          </div>
+        </div>
+      </main>
+
+      <footer class="controls" aria-label="Maze controls">
+        <button id="how-to-game-button" class="tip-copy" aria-haspopup="dialog" aria-controls="how-to-panel">
+          <span class="tip-dot">?</span><span>Swipe the maze or tap here for help</span>
+        </button>
+        <div class="control-row">
+          <button class="direction-button" data-action="left" aria-label="Move left"><span class="arrow left"></span></button>
+          <div class="vertical-buttons">
+            <button class="direction-button" data-action="up" aria-label="Move up"><span class="arrow up"></span></button>
+            <button class="wait-button" data-action="wait" aria-label="Wait one turn"><span class="wait-mark"></span><small>WAIT</small></button>
+            <button class="direction-button" data-action="down" aria-label="Move down"><span class="arrow down"></span></button>
+          </div>
+          <button class="direction-button" data-action="right" aria-label="Move right"><span class="arrow right"></span></button>
+        </div>
+      </footer>
+
+      <div id="how-to-overlay" class="how-to-overlay" hidden>
+        <section id="how-to-panel" class="how-to-panel" role="dialog" aria-modal="true" aria-labelledby="how-to-title">
+          <button id="how-to-close" class="how-to-close" aria-label="Close how to play">×</button>
+          <div class="how-to-heading">
+            <span class="how-to-mouse" aria-hidden="true"></span>
+            <div>
+              <span class="how-to-kicker">A TINY GARDEN GUIDE</span>
+              <h2 id="how-to-title">How to Play</h2>
+            </div>
+          </div>
+          <div class="how-to-steps">
+            <article class="how-to-step">
+              <span class="step-number">1</span>
+              <span class="step-art move-art" aria-hidden="true"><i class="mini-arrow up"></i><i class="mini-arrow right"></i></span>
+              <div><strong>Move the mouse</strong><p>Swipe the maze or tap the arrow buttons.</p></div>
+            </article>
+            <article class="how-to-step">
+              <span class="step-number">2</span>
+              <span class="step-art crumbs-art" aria-hidden="true"></span>
+              <div><strong>Collect every crumb</strong><p>Pick up all 3 golden crumbs for a top score.</p></div>
+            </article>
+            <article class="how-to-step">
+              <span class="step-number">3</span>
+              <span class="step-art friend-art" aria-hidden="true"></span>
+              <div><strong>Watch garden friends</strong><p>Beetles and snails move after your turn. Use WAIT when it helps.</p></div>
+            </article>
+            <article class="how-to-step">
+              <span class="step-number">4</span>
+              <span class="step-art goal-art" aria-hidden="true"></span>
+              <div><strong>Find the golden cheese!</strong><p>Reach the glowing cheese to finish the trail.</p></div>
+            </article>
+          </div>
+          <button id="how-to-ready" class="how-to-ready">Let’s Play!</button>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>

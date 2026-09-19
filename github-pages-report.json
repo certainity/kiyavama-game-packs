@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-09-19T17:00:17.940Z",
+  "games": 83,
+  "logicalFiles": 9910,
+  "logicalBytes": 1118131018,
+  "logicalMiB": 1066.33,
+  "uniqueObjects": 2264,
+  "uniqueObjectBytes": 416442026,
+  "uniqueObjectMiB": 397.15,
+  "siteBytes": 419298741,
+  "siteMiB": 399.87,
+  "deduplicationSavedBytes": 701688992,
+  "deduplicationPercent": 62.76,
+  "standaloneAdded": [
+    "kiyavama_play",
+    "mouse_maze_adventure",
+    "math_crossword"
+  ]
+}

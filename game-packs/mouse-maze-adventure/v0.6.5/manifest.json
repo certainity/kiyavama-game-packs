@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "gameId": "mouse_maze_adventure",
+  "version": "0.6.5",
+  "engine": "web-game-v1",
+  "title": "Mouse Maze Adventure",
+  "totalBytes": 6442097,
+  "files": [
+    {
+      "path": "assets/characters/beetle-walk.png",
+      "bytes": 94258,
+      "md5": "c8d28e08de8adc836b9c03f4ab66e39e",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c8d28e08de8adc836b9c03f4ab66e39e.png"
+    },
+    {
+      "path": "assets/characters/mouse-reactions.png",
+      "bytes": 300552,
+      "md5": "7837bc2e2ed221af316e589b354ecbdb",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7837bc2e2ed221af316e589b354ecbdb.png"
+    },
+    {
+      "path": "assets/characters/mouse-walk.png",
+      "bytes": 366760,
+      "md5": "ff955da98f80abb069648fa0eda43799",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/ff955da98f80abb069648fa0eda43799.png"
+    },
+    {
+      "path": "assets/characters/snail-walk.png",
+      "bytes": 92549,
+      "md5": "5e96d430b45a869e47d31bd634fb65e7",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/5e96d430b45a869e47d31bd634fb65e7.png"
+    },
+    {
+      "path": "assets/collectibles/cheese.png",
+      "bytes": 116092,
+      "md5": "adf954546cab020f748c0edc43b7a6e9",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/adf954546cab020f748c0edc43b7a6e9.png"
+    },
+    {
+      "path": "assets/environment/hedge-texture.webp",
+      "bytes": 97100,
+      "md5": "c3d69f2ae42629f709c58b068981a543",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/c3d69f2ae42629f709c58b068981a543.webp"
+    },
+    {
+      "path": "assets/environment/hedge-tile-v2.webp",
+      "bytes": 116396,
+      "md5": "d364c42edf0870ed211c040ff2353ffa",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d364c42edf0870ed211c040ff2353ffa.webp"
+    },
+    {
+      "path": "assets/environment/path-texture.webp",
+      "bytes": 14086,
+      "md5": "3f9073687c3ed21758fca3d793c0e4ea",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3f9073687c3ed21758fca3d793c0e4ea.webp"
+    },
+    {
+      "path": "assets/environment/path-tile-v2.webp",
+      "bytes": 60640,
+      "md5": "3299962350151c64f5b0e45162829f74",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/3299962350151c64f5b0e45162829f74.webp"
+    },
+    {
+      "path": "assets/index-Ciwfnfgf.js",
+      "bytes": 1243164,
+      "md5": "5e4afa9684279d7d9637176d4973198d",
+      "contentType": "text/javascript",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/5e4afa9684279d7d9637176d4973198d.js"
+    },
+    {
+      "path": "assets/index-DNfHPZ-B.css",
+      "bytes": 34735,
+      "md5": "499e6d353ba5cc40b256a8502aa399c3",
+      "contentType": "text/css",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/499e6d353ba5cc40b256a8502aa399c3.css"
+    },
+    {
+      "path": "assets/ui/gameplay/gameplay-background.webp",
+      "bytes": 266748,
+      "md5": "2c50259774be3648c1de32e93be9c158",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/2c50259774be3648c1de32e93be9c158.webp"
+    },
+    {
+      "path": "assets/ui/gameplay/hint-leaves.png",
+      "bytes": 47550,
+      "md5": "e9b4a7b380385a369f371240b343442d",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/e9b4a7b380385a369f371240b343442d.png"
+    },
+    {
+      "path": "assets/ui/gameplay/level-plaque.png",
+      "bytes": 204342,
+      "md5": "0599a9d95b27e24fcc37930f776fc908",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/0599a9d95b27e24fcc37930f776fc908.png"
+    },
+    {
+      "path": "assets/ui/gameplay/maze-foliage-frame.png",
+      "bytes": 881126,
+      "md5": "cf43cabb043ce5acc2ab6c296a5cbbb6",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/cf43cabb043ce5acc2ab6c296a5cbbb6.png"
+    },
+    {
+      "path": "assets/ui/level-map/icon-padlock.png",
+      "bytes": 57133,
+      "md5": "7fb2dc196ef197074c83a5b655400dcc",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/7fb2dc196ef197074c83a5b655400dcc.png"
+    },
+    {
+      "path": "assets/ui/level-map/icon-star-earned.png",
+      "bytes": 63176,
+      "md5": "b430b95080c4c889d41964fab6e47ca5",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/b430b95080c4c889d41964fab6e47ca5.png"
+    },
+    {
+      "path": "assets/ui/level-map/icon-star-empty.png",
+      "bytes": 68576,
+      "md5": "d820c38e12f1b7202e0d8af9717e8193",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/d820c38e12f1b7202e0d8af9717e8193.png"
+    },
+    {
+      "path": "assets/ui/level-map/icon-wood-button.png",
+      "bytes": 82192,
+      "md5": "25d6f376def5ad6414ce9fe2e7c80a2e",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/25d6f376def5ad6414ce9fe2e7c80a2e.png"
+    },
+    {
+      "path": "assets/ui/level-map/map-background.webp",
+      "bytes": 425824,
+      "md5": "4c4d54b6b6f5fca71b4fa55360185b33",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/4c4d54b6b6f5fca71b4fa55360185b33.webp"
+    },
+    {
+      "path": "assets/ui/level-map/mouse-cheese.png",
+      "bytes": 292236,
+      "md5": "076e1fbe3499179b5bd0f4a28b0c273a",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/076e1fbe3499179b5bd0f4a28b0c273a.png"
+    },
+    {
+      "path": "assets/ui/level-map/sign-green.png",
+      "bytes": 323298,
+      "md5": "db1d101fdc12fb8268fb896e2ddc8746",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/db1d101fdc12fb8268fb896e2ddc8746.png"
+    },
+    {
+      "path": "assets/ui/level-map/sign-purple.png",
+      "bytes": 337328,
+      "md5": "f86879988b13ebcfdbcc457658058921",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/f86879988b13ebcfdbcc457658058921.png"
+    },
+    {
+      "path": "assets/ui/level-map/sign-turquoise.png",
+      "bytes": 349726,
+      "md5": "21f60da7723a46403c2813b2ece86aaf",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/21f60da7723a46403c2813b2ece86aaf.png"
+    },
+    {
+      "path": "assets/ui/level-map/title-plaque.png",
+      "bytes": 398841,
+      "md5": "b5f06045e9d239470ca95f598647a732",
+      "contentType": "image/png",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/b5f06045e9d239470ca95f598647a732.png"
+    },
+    {
+      "path": "favicon.webp",
+      "bytes": 100290,
+      "md5": "b18d92d43f954d57920aa68ca9598d02",
+      "contentType": "image/webp",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/b18d92d43f954d57920aa68ca9598d02.webp"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7379,
+      "md5": "ba63ebf0175efd0300db7bcf13202c1a",
+      "contentType": "text/html",
+      "url": "https://certainity.github.io/kiyavama-game-packs/objects/ba63ebf0175efd0300db7bcf13202c1a.html"
+    }
+  ],
+  "content": {
+    "runtime": {
+      "entryFile": "index.html",
+      "bridgeVersion": 1
+    }
+  },
+  "publishedAt": "2026-09-19T17:00:17.739Z"
+}
